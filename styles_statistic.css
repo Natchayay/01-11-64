@@ -1,0 +1,48 @@
+.center-align {
+  font-size: 15px;
+}
+
+.form-label {
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 50px;
+}
+
+.page-link {
+  color: black;
+  text-align: center;
+  width: 200px;
+  background: #ce93d8 100%;
+}
+
+.button {
+  position: fixed;
+  top: 120px;
+  left: 1000px;
+}
+
+.img-fluid {
+  margin-top: 16px;
+  margin-left: 10px;
+}
+
+.card {
+  border-radius: 10px;
+  align-items: center;
+}
+
+.card-coler1 {
+  background-color: rgb(90, 240, 110);
+}
+
+.card-coler2 {
+  background-color: rgb(248, 124, 207);
+}
+
+.card-coler3 {
+  background-color: rgb(240, 237, 90);
+}
+
+.card-coler4 {
+  background-color: rgb(90, 205, 240);
+}
